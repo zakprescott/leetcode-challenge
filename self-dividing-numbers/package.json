@@ -1,0 +1,30 @@
+{
+  "name": "self-dividing-numbers",
+  "version": "1.0.0",
+  "description": "Outputs an array of every \"self-dividing\" number in a given range ",
+  "main": "self-dividing-numbers.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakprescott/leetcode-challenges.git"
+  },
+  "keywords": [
+    "leetcode",
+    "division",
+    "math"
+  ],
+  "author": "Zak Prescott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakprescott/leetcode-challenges/issues"
+  },
+  "homepage": "https://github.com/zakprescott/leetcode-challenges#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
