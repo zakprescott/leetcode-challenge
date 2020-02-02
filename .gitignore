@@ -61,4 +61,4 @@ typings/
 .next
 
 # Java class files
-.class
+*.class
