@@ -1,12 +1,9 @@
+
+// https://leetcode.com/problems/unique-number-of-occurrences/
+
 import java.util.*;
 
 class Solution {
-    public static void main(String[] args) {
-        Solution s = new Solution();
-        int[] nums = { 1, 2, 2, 1, 1, 3 };
-        boolean result = s.uniqueOccurrences(nums);
-        System.out.println(result);
-    }
 
     public boolean uniqueOccurrences(int[] arr) {
         boolean isUnique = false;
