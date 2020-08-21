@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-challenges",
+  "version": "1.0.0",
+  "description": "LeetCode challenges that I have solved (or am currently working on)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakprescott/leetcode-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zakprescott/leetcode-challenges/issues"
+  },
+  "homepage": "https://github.com/zakprescott/leetcode-challenges#readme",
+  "devDependencies": {
+    "jest": "^26.4.1"
+  }
+}
